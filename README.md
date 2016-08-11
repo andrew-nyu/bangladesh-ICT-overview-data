@@ -1,4 +1,7 @@
 # bangladesh-ICT-overview-data
+
+https://zenodo.org/badge/latestdoi/23833/andrew-nyu/bangladesh-ICT-overview-data
+
 This repository contains data underlying findings in an article currently under review
 
 Data are in excel format, with all identifying information removed.
